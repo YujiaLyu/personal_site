@@ -1,5 +1,5 @@
 ---
-role: PhD student in Sociology
+role: PhD candidate in Sociology
 bio: My research interests include status and power processes in small groups,
   hospitality service work, social class and race stratification, and
   international migration.
