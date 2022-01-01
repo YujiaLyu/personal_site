@@ -1,0 +1,31 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: '#about'
+    weight: 20
+  - name: Research # include publication and projects 
+    url: 'project/'
+    weight: 30
+  - name: Teaching
+    url: 'teaching/'
+    weight: 40
+  - name: Public Engagement # include talks and personal blog
+    url: 'event/'
+    weight: 50
+  - name: Skills
+    url: 'skills/'
+    weight: 60
+  - name: CV
+    url: 'https://solstice-velvet-127.notion.site/Yujia-Lyu-CV-283931a241094d81ac3e5df6e396738a'
+    weight: 70
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
