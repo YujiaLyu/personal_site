@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = http://github.com/YujiaLyu/YujiaLyu.github.io.git
+	branch = main
