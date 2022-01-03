@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yujia Lyu # Website name
-baseurl: 'https://www.yujia-lyu.com/' # Website URL
+baseurl: 'https://YujiaLyu.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
