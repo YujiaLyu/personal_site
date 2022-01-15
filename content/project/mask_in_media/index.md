@@ -33,7 +33,7 @@ image:
 ---
 <div style ="text-align: left">
 
-With Michael Sauder, 
+With Michael Sauder
 {style="color: grey"}
 
 ### Project Background:

@@ -1,14 +1,13 @@
 ---
 role: PhD candidate in Sociology
 bio: My research interests include status and power processes in small groups,
-  hospitality service work, social class and race stratification, and
-  international migration.
+  social class and race stratification, and international migration.
 interests:
   - Sociological Social Pscchology (group processes)
   - Social Stratification
-  - Service Work
   - International Migration
-  - Experimental and Quantitative Research
+  - Interactive Service Work
+  - Experimental, Survey, and Quantitative Research
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,13 +31,13 @@ education:
     - course: PhD in Sociology
       institution: The University of Iowa
       year: 2023
-    - course: Graduate Certificate in Informatics and Information Science
+    - course: Graduate Certificate in Information Science
       institution: The University of Iowa
       year: 2021
     - course: MA in Sociology
       institution: The University of Iowa
       year: 2019
-    - course: BL in Sociology
+    - course: BS in Sociology
       institution: Central China Normal University
       year: 2015
 superuser: true
@@ -46,6 +45,6 @@ highlight_name: false
 title: Yujia Lyu
 email: ""
 ---
-My name is Yujia Lyu (吕煜佳). I am a sociology graduate student at the University of Iowa, also the graduate Manager for the Center of the Study of Group Processes. My research focuses on applying social psychological theories to delineate mechanisms reproducing social class inequality. My current project examines power and status dynamics among customers, service employees, and managers (the service triangle) in the hospitality sector. Other projects including 1) content analysis on media reporting masks during the Covid-19 pandemic and 2) experimental computer protocol for three-person status interaction using Python.
+My name is Yujia Lyu (吕煜佳). I am a sociology graduate student at the University of Iowa, also the Manager for the Center of the Study of Group Processes. My research focuses on applying social psychological theories to identify mechanisms reproducing social class and race inequality. My current project examines how status inequality spread through routine collaborative role interactions. Other projects including 1) content analysis on media reporting masks during the Covid-19 pandemic, 2) experimental computer protocol for three-person status interaction using Python, 3) personal control in status hierarchies.
 
 {{< icon name="eye" pack="fas" >}} Check my {{< staticref "https://solstice-velvet-127.notion.site/Yujia-Lyu-CV-283931a241094d81ac3e5df6e396738a" "newtab" >}}resumé{{< /staticref >}}.

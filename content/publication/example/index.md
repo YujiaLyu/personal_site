@@ -1,17 +1,18 @@
 ---
-title: "An example conference paper"
+title: "University of Iowa Parental Leave Survey Report"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Sarah Bruch
+- Hansini Munasinghe
 - admin
-- Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -23,16 +24,17 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: University of Iowa Report
+publication_short: UIowa PPC
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In spring 2016, a survey was administered to all faculty and staff at the University of Iowa. A total of 2,512 responded to the survey, representing an overall response rate of 14 percent. The sample of survey respondents has roughly similar demographic characteristics to that of the faculty and staff overall, however women and whites were over-represented. The goal of the survey was to obtain information about the experiences and perceptions of parental leave among faculty and staff at the University of Iowa. This report summarizes the results from this survey. 
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -76,12 +78,5 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Report can be found here: (https://ppc.uiowa.edu/publications/university-iowa-parental-leave-survey-report).

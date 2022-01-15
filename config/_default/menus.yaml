@@ -10,14 +10,14 @@ main:
   - name: Research # include publication and projects 
     url: 'project/'
     weight: 30
-  - name: Teaching
-    url: 'teaching/'
-    weight: 40
-  - name: Public Engagement # include talks and personal blog
-    url: 'event/'
-    weight: 50
   - name: Skills
     url: 'skills/'
+    weight: 40
+  - name: Teaching
+    url: 'teaching/'
+    weight: 50
+  - name: Public Engagement # include talks and personal blog
+    url: 'event/'
     weight: 60
   - name: CV
     url: 'https://solstice-velvet-127.notion.site/Yujia-Lyu-CV-283931a241094d81ac3e5df6e396738a'

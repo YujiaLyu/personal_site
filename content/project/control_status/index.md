@@ -32,5 +32,15 @@ image:
 # slides: example
 ---
 <div style ="text-align: left">
+
+With Alison Bianchi
+{style="color: grey"}
+
+
+
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Past research on sense of control, the extent to which individuals feel they can manage their lives, conceives it as an individual-level mechanism shaping the unequal distribution of life outcomes. Yet, recent studies imply its potential to generate interactional inequality through two distinct dimensions of social hierarchy: power and status. As extant theorizing favors status processes over power dynamics, we investigate its potential as a status element using status characteristic theory and a variant of the standardized experimental situation. By manipulating sense of control as a graded status characteristic, we successfully detect its limited capacity to form hierarchies. However, principal component analyses of the post-session questionnaire reveal that aspects of interactional power, instead of competence associated with status generalization, explain more variance in the observed influence patterns. We conclude that interactional power, and not status processes, might be the mechanism buttressing these behavioral inequalities. We discuss the future implications of these thought-provoking outcomes. 
+
+Currently under review at Sociological Focus
+{style="color: grey"}
 </div>

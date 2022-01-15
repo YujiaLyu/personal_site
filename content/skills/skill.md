@@ -36,10 +36,8 @@ feature:
   icon: images
   icon_pack: fas
   name: Visualization
-- description: Basic
-  icon: java
-  icon_pack: fab
-  name: Java
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
