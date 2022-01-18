@@ -45,4 +45,8 @@ highlight_name: false
 title: Yujia Lyu
 email: ""
 ---
-My name is Yujia Lyu (吕煜佳). I am a sociology graduate student at the University of Iowa, also the Manager for the Center of the Study of Group Processes. My research focuses on applying social psychological theories to identify mechanisms reproducing social class and race inequality. My current project examines how status inequality spread through routine collaborative role interactions. Other projects including 1) content analysis on media reporting masks during the Covid-19 pandemic, 2) experimental computer protocol for three-person status interaction using Python, 3) personal control in status hierarchies.
+My name is Yujia Lyu (吕煜佳). I am a sociology graduate researcher at the University of Iowa, also the Manager for the Center of the Study of Group Processes. My research focuses on applying social psychological theories to identify mechanisms reproducing social class and race inequality. I am a mixed-method researcher with expertise in group processes, cognitive bias, and value construction.
+
+My current project examines how status inequality spread through routine collaborative role interactions. I designed an interactive experiment with Qualtrics and investigate how competence-related stereotypes emerge through role-based encounters. The result will be used to produce actionable recommendations for groups and organizations to prevent the development and reinforcement of negative stereotypes associated with disadvantaged groups. In another project, I interview working college students to examine how their employment affects their educational experiences and perception of leaders.
+
+My other projects include 1) content analysis on media reporting masks during the Covid-19 pandemic, 2) experimental computer protocol for three-person status interaction using Python, 3) personal control in status hierarchies.  
